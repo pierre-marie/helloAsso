@@ -33,9 +33,6 @@ class ArtistViewController: GenericViewController {
         topTracksTable.tableFooterView = UIView()
         displayArtistInfo()
         rxBindings()
-        
-        self.viewModel.fetchArtistTopTracks(artistId: artist.id)
-        //self.viewModel.fetchArtistAlbums(artistId: artist.id)
     }
     
     // MARK: Bindings
