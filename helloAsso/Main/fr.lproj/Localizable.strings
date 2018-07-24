@@ -6,4 +6,6 @@
   Copyright © 2018 pierrot. All rights reserved.
 */
 
+"ARTIST_SEARCH_FIELD_PLACEHOLDER"="Nom de l'artiste";
 "ARTIST_SEARCH_TITLE"="Rechercher un artiste";
+"ARTIST_DETAIL_TITLE"="Informations";

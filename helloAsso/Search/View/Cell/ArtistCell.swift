@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ArtistCellTableViewCell: UITableViewCell {
+class ArtistCell: UITableViewCell {
 
     @IBOutlet weak var name: UILabel!
     @IBOutlet weak var genres: UILabel!
@@ -19,9 +19,13 @@ class ArtistCellTableViewCell: UITableViewCell {
         name.text = artist.name
         if artist.images.count > 0 {
             artistImageView.setImageFromUrl(urlString: artist.images[0].url, rounded: true)
+        } else {
+            artistImageView.image = UIImage(named: "placeholder")
         }
         if artist.genres.count > 0 {
             genres.text = artist.genres.joined(separator: "-")
+        } else {
+            genres.text = ""
         }
     }
 

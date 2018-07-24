@@ -10,21 +10,10 @@ import UIKit
 import RxSwift
 import Alamofire
 import Unbox
-import SpotifyLogin
 
 class SearchRemoteService: NSObject {
     
     // MARK: GET public playlists of a user
-    
-    var token: String?
-    
-    override init() {
-        
-        super.init()
-        SpotifyLogin.shared.getAccessToken { (accessToken, error) in
-            self.token = accessToken
-        }
-    }
     
     func searchForArtist(artistName: String) -> Observable<[Artist]> {
         

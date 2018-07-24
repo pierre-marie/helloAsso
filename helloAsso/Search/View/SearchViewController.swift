@@ -10,11 +10,13 @@ import UIKit
 import RxCocoa
 import RxSwift
 
-class SearchViewController: UIViewController, UITableViewDelegate, UITableViewDataSource {
+class SearchViewController: GenericViewController, UITableViewDelegate, UITableViewDataSource {
 
     @IBOutlet weak var resultsTable: UITableView!
     @IBOutlet weak var searchBar: UISearchBar!
+    
     var artists: [Artist] = []
+    var selectedArtistIndex: Int = 0
     let viewModel = SearchViewModel(searchRepository: SearchRepository(remoteService: SearchRemoteService()))
     let disposeBag = DisposeBag()
     
@@ -26,7 +28,10 @@ class SearchViewController: UIViewController, UITableViewDelegate, UITableViewDa
         
         self.navigationItem.setHidesBackButton(true, animated: false)
         self.title = NSLocalizedString("ARTIST_SEARCH_TITLE", comment: "")
-
+        
+        resultsTable.tableFooterView = UIView()
+        searchBar.placeholder = NSLocalizedString("ARTIST_SEARCH_FIELD_PLACEHOLDER", comment: "")
+        
         searchBar
             .rx.text
             .orEmpty
@@ -43,11 +48,6 @@ class SearchViewController: UIViewController, UITableViewDelegate, UITableViewDa
             .disposed(by: disposeBag)
     }
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        
-    }
-
     // MARK: TableView delegate
     
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
@@ -56,11 +56,28 @@ class SearchViewController: UIViewController, UITableViewDelegate, UITableViewDa
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         
-        let cell: ArtistCellTableViewCell = tableView.dequeueReusableCell(withIdentifier: "artistCell", for: indexPath) as! ArtistCellTableViewCell
+        let cell: ArtistCell = tableView.dequeueReusableCell(withIdentifier: "artistCell", for: indexPath) as! ArtistCell
         let artist = artists[indexPath.row]
         cell.updateWith(artist: artist)
         return cell
     }
+    
+    func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        
+        selectedArtistIndex = indexPath.row
+        performSegue(withIdentifier: "goArtistDetail", sender: self)
+    }
 
+    // MARK: Navigation
+    
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+
+        if (segue.identifier == "goArtistDetail") {
+            let destinationViewController: ArtistViewController = segue.destination as! ArtistViewController
+            destinationViewController.artist = artists[selectedArtistIndex]
+            print(destinationViewController.artist)
+        }
+    }
+    
 }
 
