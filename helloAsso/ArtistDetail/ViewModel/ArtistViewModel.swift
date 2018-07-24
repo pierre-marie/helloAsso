@@ -17,32 +17,14 @@ class ArtistViewModel: NSObject {
     private var offset: Int = 0
     private let artistRepository: ArtistRepository
     
-    private var topTracksVariable = Variable<[Track]>([])
-    var topTracks: Observable<[Track]> {
-        return topTracksVariable.asObservable()
-    }
-    
-    private var albumsVariable = Variable<[Album]>([])
-    var albums: Observable<[Album]> {
-        return albumsVariable.asObservable()
-    }
-    
     init(artistRepository: ArtistRepository) {
         
         self.artistRepository = artistRepository
         self.observableLazyLoading = lazyLoadingSubject
     }
     
-    func fetchArtistTopTracks(artistId: String) {
-        
-        artistRepository.fetchArtistTopTracks(artistId: artistId)
-            .subscribe(onNext: { tracks in
-                print("fetchArtistTopTracks tracks.count = \(tracks.count)")
-                self.topTracksVariable.value = tracks
-            }, onError: { error in
-                print("fetchArtistTopTracks onError")
-            })
-            .disposed(by: disposeBag)
+    func fetchArtistTopTracks(artistId: String) -> Observable<[Track]> {
+        return artistRepository.fetchArtistTopTracks(artistId: artistId)
     }
     
     func fetchArtistAlbums(artistId: String) -> Observable<[Album]> {

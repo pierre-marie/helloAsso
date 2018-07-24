@@ -1,0 +1,673 @@
+{
+  "tracks" : [ {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/22HVxZPA6UhBp8wahxDA6I",
+        "id" : "22HVxZPA6UhBp8wahxDA6I",
+        "name" : "France Gall",
+        "type" : "artist",
+        "uri" : "spotify:artist:22HVxZPA6UhBp8wahxDA6I"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4vYag01Wn4UHjtlWbz0Nn0",
+      "id" : "4vYag01Wn4UHjtlWbz0Nn0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/65614efa33fc0e9e8874e7fb3fef181777306272",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/69f070a8c08f47d284c1707464d4443ec8607642",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/fc5fc59107c56afe55fc8b7a74b0f590c9f3be91",
+        "width" : 64
+      } ],
+      "name" : "Babacar ( Remasterisé)",
+      "release_date" : "1987",
+      "release_date_precision" : "year",
+      "type" : "album",
+      "uri" : "spotify:album:4vYag01Wn4UHjtlWbz0Nn0"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+      },
+      "href" : "https://api.spotify.com/v1/artists/22HVxZPA6UhBp8wahxDA6I",
+      "id" : "22HVxZPA6UhBp8wahxDA6I",
+      "name" : "France Gall",
+      "type" : "artist",
+      "uri" : "spotify:artist:22HVxZPA6UhBp8wahxDA6I"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 291400,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRZ041200402"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/67CfbIKKTCKFqmQLJwUftX"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/67CfbIKKTCKFqmQLJwUftX",
+    "id" : "67CfbIKKTCKFqmQLJwUftX",
+    "is_local" : false,
+    "name" : "Ella, elle l'a - Remasterisé",
+    "popularity" : 58,
+    "preview_url" : "https://p.scdn.co/mp3-preview/47ce0867c77d378a88d44e3481dfe32130efdb82?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:67CfbIKKTCKFqmQLJwUftX"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/22HVxZPA6UhBp8wahxDA6I",
+        "id" : "22HVxZPA6UhBp8wahxDA6I",
+        "name" : "France Gall",
+        "type" : "artist",
+        "uri" : "spotify:artist:22HVxZPA6UhBp8wahxDA6I"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5Ni3yIgxhLwuC3B08SQ4r7"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5Ni3yIgxhLwuC3B08SQ4r7",
+      "id" : "5Ni3yIgxhLwuC3B08SQ4r7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/60f27cb9ce672723b80b9d55d391602c08fd86a7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/1d0f553cb26e19768dd2096a3520abaab0a65c7a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/3f57789738dc2bccae4f7de1004f651a76ef491a",
+        "width" : 64
+      } ],
+      "name" : "Paris, France (Remasterisé)",
+      "release_date" : "1980",
+      "release_date_precision" : "year",
+      "type" : "album",
+      "uri" : "spotify:album:5Ni3yIgxhLwuC3B08SQ4r7"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+      },
+      "href" : "https://api.spotify.com/v1/artists/22HVxZPA6UhBp8wahxDA6I",
+      "id" : "22HVxZPA6UhBp8wahxDA6I",
+      "name" : "France Gall",
+      "type" : "artist",
+      "uri" : "spotify:artist:22HVxZPA6UhBp8wahxDA6I"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 273626,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRZ041200370"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3GfUHAoOSGy3hhEaTU34WV"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3GfUHAoOSGy3hhEaTU34WV",
+    "id" : "3GfUHAoOSGy3hhEaTU34WV",
+    "is_local" : false,
+    "name" : "Il jouait du piano debout",
+    "popularity" : 55,
+    "preview_url" : "https://p.scdn.co/mp3-preview/735cf06cee2af69100f4afd44bfc3a339420f7f0?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3GfUHAoOSGy3hhEaTU34WV"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/22HVxZPA6UhBp8wahxDA6I",
+        "id" : "22HVxZPA6UhBp8wahxDA6I",
+        "name" : "France Gall",
+        "type" : "artist",
+        "uri" : "spotify:artist:22HVxZPA6UhBp8wahxDA6I"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0IePUOxaLDrCmaB6r7JyVl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0IePUOxaLDrCmaB6r7JyVl",
+      "id" : "0IePUOxaLDrCmaB6r7JyVl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/093b6a1d980d07f4f3ff1d014ea3bdc42daf82ae",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/84b55ebe0dd53ebccc6b79ac464a8a9811a17cbf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/63b178c0164ded522ac18f3c99d819e574f0b0a1",
+        "width" : 64
+      } ],
+      "name" : "Tout Pour La Musique (Remasterisé)",
+      "release_date" : "1981",
+      "release_date_precision" : "year",
+      "type" : "album",
+      "uri" : "spotify:album:0IePUOxaLDrCmaB6r7JyVl"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+      },
+      "href" : "https://api.spotify.com/v1/artists/22HVxZPA6UhBp8wahxDA6I",
+      "id" : "22HVxZPA6UhBp8wahxDA6I",
+      "name" : "France Gall",
+      "type" : "artist",
+      "uri" : "spotify:artist:22HVxZPA6UhBp8wahxDA6I"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 274626,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRZ041200384"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/51BbACodhBnd9lBs2TI0YT"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/51BbACodhBnd9lBs2TI0YT",
+    "id" : "51BbACodhBnd9lBs2TI0YT",
+    "is_local" : false,
+    "name" : "Résiste",
+    "popularity" : 54,
+    "preview_url" : "https://p.scdn.co/mp3-preview/f751e8da20bda3481f552086c158fe4541dfafa9?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:51BbACodhBnd9lBs2TI0YT"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/22HVxZPA6UhBp8wahxDA6I",
+        "id" : "22HVxZPA6UhBp8wahxDA6I",
+        "name" : "France Gall",
+        "type" : "artist",
+        "uri" : "spotify:artist:22HVxZPA6UhBp8wahxDA6I"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4jEkUenMPRi7yNLqyRhF0u"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4jEkUenMPRi7yNLqyRhF0u",
+      "id" : "4jEkUenMPRi7yNLqyRhF0u",
+      "images" : [ {
+        "height" : 635,
+        "url" : "https://i.scdn.co/image/9441989a9ab2507a867cfabdf22ef7470c510b68",
+        "width" : 640
+      }, {
+        "height" : 297,
+        "url" : "https://i.scdn.co/image/7113c874b39ff211f24ce92fa044e4f485ae0a0f",
+        "width" : 300
+      }, {
+        "height" : 63,
+        "url" : "https://i.scdn.co/image/76b86116cfa8da18778ba2f13b963e4616e9a5e1",
+        "width" : 64
+      } ],
+      "name" : "Best Of",
+      "release_date" : "1992-01-01",
+      "release_date_precision" : "day",
+      "type" : "album",
+      "uri" : "spotify:album:4jEkUenMPRi7yNLqyRhF0u"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+      },
+      "href" : "https://api.spotify.com/v1/artists/22HVxZPA6UhBp8wahxDA6I",
+      "id" : "22HVxZPA6UhBp8wahxDA6I",
+      "name" : "France Gall",
+      "type" : "artist",
+      "uri" : "spotify:artist:22HVxZPA6UhBp8wahxDA6I"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 150506,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRZ026500100"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7i4WaTC7Xp6SY49aCdcVia"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7i4WaTC7Xp6SY49aCdcVia",
+    "id" : "7i4WaTC7Xp6SY49aCdcVia",
+    "is_local" : false,
+    "name" : "Poupée de cire, poupée de son",
+    "popularity" : 48,
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7i4WaTC7Xp6SY49aCdcVia"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/22HVxZPA6UhBp8wahxDA6I",
+        "id" : "22HVxZPA6UhBp8wahxDA6I",
+        "name" : "France Gall",
+        "type" : "artist",
+        "uri" : "spotify:artist:22HVxZPA6UhBp8wahxDA6I"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4jEkUenMPRi7yNLqyRhF0u"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4jEkUenMPRi7yNLqyRhF0u",
+      "id" : "4jEkUenMPRi7yNLqyRhF0u",
+      "images" : [ {
+        "height" : 635,
+        "url" : "https://i.scdn.co/image/9441989a9ab2507a867cfabdf22ef7470c510b68",
+        "width" : 640
+      }, {
+        "height" : 297,
+        "url" : "https://i.scdn.co/image/7113c874b39ff211f24ce92fa044e4f485ae0a0f",
+        "width" : 300
+      }, {
+        "height" : 63,
+        "url" : "https://i.scdn.co/image/76b86116cfa8da18778ba2f13b963e4616e9a5e1",
+        "width" : 64
+      } ],
+      "name" : "Best Of",
+      "release_date" : "1992-01-01",
+      "release_date_precision" : "day",
+      "type" : "album",
+      "uri" : "spotify:album:4jEkUenMPRi7yNLqyRhF0u"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+      },
+      "href" : "https://api.spotify.com/v1/artists/22HVxZPA6UhBp8wahxDA6I",
+      "id" : "22HVxZPA6UhBp8wahxDA6I",
+      "name" : "France Gall",
+      "type" : "artist",
+      "uri" : "spotify:artist:22HVxZPA6UhBp8wahxDA6I"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 127160,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRZ026400060"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6ZIkH0yQk0E5hfOVL7CyoQ"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6ZIkH0yQk0E5hfOVL7CyoQ",
+    "id" : "6ZIkH0yQk0E5hfOVL7CyoQ",
+    "is_local" : false,
+    "name" : "Laisse tomber les filles",
+    "popularity" : 45,
+    "preview_url" : null,
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:6ZIkH0yQk0E5hfOVL7CyoQ"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/22HVxZPA6UhBp8wahxDA6I",
+        "id" : "22HVxZPA6UhBp8wahxDA6I",
+        "name" : "France Gall",
+        "type" : "artist",
+        "uri" : "spotify:artist:22HVxZPA6UhBp8wahxDA6I"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4vYag01Wn4UHjtlWbz0Nn0",
+      "id" : "4vYag01Wn4UHjtlWbz0Nn0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/65614efa33fc0e9e8874e7fb3fef181777306272",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/69f070a8c08f47d284c1707464d4443ec8607642",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/fc5fc59107c56afe55fc8b7a74b0f590c9f3be91",
+        "width" : 64
+      } ],
+      "name" : "Babacar ( Remasterisé)",
+      "release_date" : "1987",
+      "release_date_precision" : "year",
+      "type" : "album",
+      "uri" : "spotify:album:4vYag01Wn4UHjtlWbz0Nn0"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+      },
+      "href" : "https://api.spotify.com/v1/artists/22HVxZPA6UhBp8wahxDA6I",
+      "id" : "22HVxZPA6UhBp8wahxDA6I",
+      "name" : "France Gall",
+      "type" : "artist",
+      "uri" : "spotify:artist:22HVxZPA6UhBp8wahxDA6I"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 206626,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRZ041200403"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/1kYi6X7VMmU3rCiE2aWjV1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/1kYi6X7VMmU3rCiE2aWjV1",
+    "id" : "1kYi6X7VMmU3rCiE2aWjV1",
+    "is_local" : false,
+    "name" : "Evidemment",
+    "popularity" : 45,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4518edad9518d5875e805c7e0425ea314206dbc2?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:1kYi6X7VMmU3rCiE2aWjV1"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/22HVxZPA6UhBp8wahxDA6I",
+        "id" : "22HVxZPA6UhBp8wahxDA6I",
+        "name" : "France Gall",
+        "type" : "artist",
+        "uri" : "spotify:artist:22HVxZPA6UhBp8wahxDA6I"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2Y5UOICIPPl6AmKbZ4ZWhj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2Y5UOICIPPl6AmKbZ4ZWhj",
+      "id" : "2Y5UOICIPPl6AmKbZ4ZWhj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/169267d3efc3d64aa89a0f7f9785c09225c41f60",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/4ade98578e3396fa7921b7b1b982088a245da703",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/336f2084fe4252ba6991387e0cf434951fa7f1f0",
+        "width" : 64
+      } ],
+      "name" : "Evidemment (Version Deluxe)",
+      "release_date" : "2005-02-01",
+      "release_date_precision" : "day",
+      "type" : "album",
+      "uri" : "spotify:album:2Y5UOICIPPl6AmKbZ4ZWhj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+      },
+      "href" : "https://api.spotify.com/v1/artists/22HVxZPA6UhBp8wahxDA6I",
+      "id" : "22HVxZPA6UhBp8wahxDA6I",
+      "name" : "France Gall",
+      "type" : "artist",
+      "uri" : "spotify:artist:22HVxZPA6UhBp8wahxDA6I"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 269413,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRT197800010"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/71TRjDpeYMKPuxTzwTZIkm"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/71TRjDpeYMKPuxTzwTZIkm",
+    "id" : "71TRjDpeYMKPuxTzwTZIkm",
+    "is_local" : false,
+    "name" : "Viens je t'emmène",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5aebd0647fda765f4805e0ecacf2f7d4140204a9?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 20,
+    "type" : "track",
+    "uri" : "spotify:track:71TRjDpeYMKPuxTzwTZIkm"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/22HVxZPA6UhBp8wahxDA6I",
+        "id" : "22HVxZPA6UhBp8wahxDA6I",
+        "name" : "France Gall",
+        "type" : "artist",
+        "uri" : "spotify:artist:22HVxZPA6UhBp8wahxDA6I"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2OV5w1EvwvFUcn0PEoFAxB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2OV5w1EvwvFUcn0PEoFAxB",
+      "id" : "2OV5w1EvwvFUcn0PEoFAxB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/07789b4f400ca1c0bde7ef08174bc722e267ce82",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/71409dbc240937a4a02021a8e3f7557ab0f5b046",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/0b830fc9b446366f49b7a9f40509fd7081007494",
+        "width" : 64
+      } ],
+      "name" : "Dancing Disco (Remasterisé)",
+      "release_date" : "1977",
+      "release_date_precision" : "year",
+      "type" : "album",
+      "uri" : "spotify:album:2OV5w1EvwvFUcn0PEoFAxB"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+      },
+      "href" : "https://api.spotify.com/v1/artists/22HVxZPA6UhBp8wahxDA6I",
+      "id" : "22HVxZPA6UhBp8wahxDA6I",
+      "name" : "France Gall",
+      "type" : "artist",
+      "uri" : "spotify:artist:22HVxZPA6UhBp8wahxDA6I"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 178506,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRZ041200369"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6NvKOWV0UnBPAaO76D4JxS"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6NvKOWV0UnBPAaO76D4JxS",
+    "id" : "6NvKOWV0UnBPAaO76D4JxS",
+    "is_local" : false,
+    "name" : "Si maman si",
+    "popularity" : 41,
+    "preview_url" : "https://p.scdn.co/mp3-preview/58ecf14cb86061c298728df62044079b9c723216?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:6NvKOWV0UnBPAaO76D4JxS"
+  }, {
+    "album" : {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/22HVxZPA6UhBp8wahxDA6I",
+        "id" : "22HVxZPA6UhBp8wahxDA6I",
+        "name" : "France Gall",
+        "type" : "artist",
+        "uri" : "spotify:artist:22HVxZPA6UhBp8wahxDA6I"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2Y5UOICIPPl6AmKbZ4ZWhj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2Y5UOICIPPl6AmKbZ4ZWhj",
+      "id" : "2Y5UOICIPPl6AmKbZ4ZWhj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/169267d3efc3d64aa89a0f7f9785c09225c41f60",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/4ade98578e3396fa7921b7b1b982088a245da703",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/336f2084fe4252ba6991387e0cf434951fa7f1f0",
+        "width" : 64
+      } ],
+      "name" : "Evidemment (Version Deluxe)",
+      "release_date" : "2005-02-01",
+      "release_date_precision" : "day",
+      "type" : "album",
+      "uri" : "spotify:album:2Y5UOICIPPl6AmKbZ4ZWhj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+      },
+      "href" : "https://api.spotify.com/v1/artists/22HVxZPA6UhBp8wahxDA6I",
+      "id" : "22HVxZPA6UhBp8wahxDA6I",
+      "name" : "France Gall",
+      "type" : "artist",
+      "uri" : "spotify:artist:22HVxZPA6UhBp8wahxDA6I"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 253026,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRT197700090"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3J7V8Wg2wqqCM3tfpBoSne"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3J7V8Wg2wqqCM3tfpBoSne",
+    "id" : "3J7V8Wg2wqqCM3tfpBoSne",
+    "is_local" : false,
+    "name" : "Musique",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1593b683b2ef0578c6ffdd15870f719d20b039bb?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 10,
+    "type" : "track",
+    "uri" : "spotify:track:3J7V8Wg2wqqCM3tfpBoSne"
+  }, {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/22HVxZPA6UhBp8wahxDA6I",
+        "id" : "22HVxZPA6UhBp8wahxDA6I",
+        "name" : "France Gall",
+        "type" : "artist",
+        "uri" : "spotify:artist:22HVxZPA6UhBp8wahxDA6I"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4vYag01Wn4UHjtlWbz0Nn0",
+      "id" : "4vYag01Wn4UHjtlWbz0Nn0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/65614efa33fc0e9e8874e7fb3fef181777306272",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/69f070a8c08f47d284c1707464d4443ec8607642",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/fc5fc59107c56afe55fc8b7a74b0f590c9f3be91",
+        "width" : 64
+      } ],
+      "name" : "Babacar ( Remasterisé)",
+      "release_date" : "1987",
+      "release_date_precision" : "year",
+      "type" : "album",
+      "uri" : "spotify:album:4vYag01Wn4UHjtlWbz0Nn0"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+      },
+      "href" : "https://api.spotify.com/v1/artists/22HVxZPA6UhBp8wahxDA6I",
+      "id" : "22HVxZPA6UhBp8wahxDA6I",
+      "name" : "France Gall",
+      "type" : "artist",
+      "uri" : "spotify:artist:22HVxZPA6UhBp8wahxDA6I"
+    } ],
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SK", "SV", "TH", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 289333,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRZ041200400"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/0xCWuxvVaWKl15vFrCMFkG"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/0xCWuxvVaWKl15vFrCMFkG",
+    "id" : "0xCWuxvVaWKl15vFrCMFkG",
+    "is_local" : false,
+    "name" : "Babacar",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4f17de74614de1fb319801c23ca8f25865b46c07?cid=774b29d4f13844c495f206cafdad9c86",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:0xCWuxvVaWKl15vFrCMFkG"
+  } ]
+}

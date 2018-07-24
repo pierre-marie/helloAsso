@@ -43,7 +43,7 @@ class ArtistViewController: GenericViewController {
     func rxBindings() {
         
         // top tracks tableView
-        viewModel.topTracks
+        viewModel.fetchArtistTopTracks(artistId: artist.id)
             .bind(to: topTracksTable.rx.items(cellIdentifier: "TrackCell",
                                          cellType: TrackCell.self)) {  row, element, cell in
                                             cell.updateWith(track: element)
@@ -59,13 +59,14 @@ class ArtistViewController: GenericViewController {
             .disposed(by: disposeBag)
         
         // load more albums trigger
-        _ = albumsCollection.rx.contentOffset
+        albumsCollection.rx.contentOffset
             .subscribe({ offset in
                 let point: CGPoint = self.albumsCollection.contentOffset
                 if ((point.y + self.albumsCollection.frame.size.height) >= self.albumsCollection.contentSize.height) {
                     self.viewModel.nextAlbums()
                 }
             })
+            .disposed(by: disposeBag)
     }
     
     // MARK: Display
